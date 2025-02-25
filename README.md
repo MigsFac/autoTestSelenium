@@ -14,7 +14,11 @@ http://13.236.193.159:8080/ (Amazon ec2上）
 簡易的なテスト仕様書 test_case.xlsm  
 実際に実行させた後のファイル　20250226test_case_portfolio.xlsm
 <img width="1036" alt="スクリーンショット 2025-02-26 7 37 42" src="https://github.com/user-attachments/assets/ae5c4e54-9017-45c1-88e1-c6ec6b392a86" />
-<img width="1539" alt="スクリーンショット 2025-02-26 7 38 30" src="https://github.com/user-attachments/assets/4811140c-4d7f-4acb-b2db-f4b564649c90" />
+<img width="1539" alt="スクリーンショット 2025-02-26 7 38 30" src="https://github.com/user-attachments/assets/4811140c-4d7f-4acb-b2db-f4b564649c90" />  
+
+Pytest-htmlのレポート結果  
+<img width="1323" alt="スクリーンショット 2025-02-26 8 02 36" src="https://github.com/user-attachments/assets/a6febf57-d669-4e96-b346-232656770e7d" />
+
 
 ## 課題
 テストケースの読込処理に時間がかかるため、改善の余地あり。  
