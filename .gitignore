@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+.DS_Store
+.env
+.env.production
+.history/
+*?test_case.xlsm
